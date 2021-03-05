@@ -1,4 +1,5 @@
-# Theatre-Management-System-in-Java
-Java C1 Lab Assignment 2 made from UML class diagram
+# Theatre-Management-System-in-Java: -
+Java C1 Lab Assignment 2 made from UML class diagram.
 
+# How to run: -
 To run the code, just download the zip or clone the repository and run the TheatreManagementTester.java file inside the package - packageTheatre.
